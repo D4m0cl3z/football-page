@@ -1,0 +1,173 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner{
+    margin-top: -1.5%;
+    height: 40vh;
+    width: 100%;
+    background-image:url("../html/imagenes/design1_image1.jpg");
+
+}
+
+.banner h1{
+padding-left: 3%;
+    font-size: 250%;
+    color: black;
+    margin-top: 1%;
+    text-shadow: 2px 2px white;
+    
+}
+.upcomin{    
+ 
+    color: white;
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+    display: inline-block;
+
+  
+}
+
+.upcomin h2{
+    margin-top: 1.5%;
+  text-align: center;
+}
+
+.logo{
+    margin-top: -6.5%;
+    margin-right: 10%;
+    height: 17vh;
+    float: right;
+}
+
+.contacto{
+    width:40vw;
+    height: 40vh;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.parrafo{
+    display: inline-block;
+    margin: 0%;
+    font-size: 1.5vw;
+}
+
+.paginas{
+    float:left;
+    padding-left: 1%;
+    display: inline-block;  
+    font-size:2vw;
+    padding-right:13%;
+}
+.parrafo1{  
+    margin: 0%;
+    font-size: 1.5vw;
+    display: flex;
+}
+a:hover{
+    color: darkblue;
+}
+
+.reglas{
+    display: grid;
+}
+
+.negrita{
+font-weight: bold;
+
+}
+
+li {
+padding-bottom: 2%;
+}
+ul{
+    
+    margin: auto;
+}
+ol{
+    margin-top:-1%;
+}
+
+.espacio{
+    margin-top: -4%;
+}
+
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+  
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+  }
+
+  .lista{
+      display: flex;
+      padding-left: 7.8%;
+  }
+
+  #outdoor{
+      text-align: center;
+  }
+
+  .informacion{
+      display: flex;
+    margin-top: 3%;
+  }
+
+
+input{
+   border: none;
+   border-bottom: 1px solid black; 
+}
+
+.ropa{
+
+   display: i;
+
+}
+.ropa0{
+    display: block;
+}
+
+.ropa1{
+    display:inline-block;
+
+}
+
+.ropa2{
+    display:inline-block;
+}
+
+
+.mapa{
+
+float: right;
+margin-top: -25%;
+margin-right: 10%;
+}
+
+a{
+     
+}
